@@ -8,7 +8,7 @@
 
 <p>&nbsp;</p>
 
-<img align="right" alt="GIF" src="giphy.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" src="code.gif?raw=true" width="400" height="320" />
 
 Hi, I'm [Andre Ferreira](https://www.linkedin.com/in/andre-l-s-ferreira-86a77025), a tech passionate, curious and back-end Developer from Brazil. My passion for software it's because I can resolve problems and make people's work easier up. This come true with elegant code and a lot of study. I take great care with architecture, and code quality of the things I code.
 <p>"When I'm interested in a thing, I learn it. How it works, how the best peoples in the world do it." King Richard</p>
@@ -23,7 +23,6 @@ Hi, I'm [Andre Ferreira](https://www.linkedin.com/in/andre-l-s-ferreira-86a77025
 **Languages and Tools:**  
 <p float="left">
 <code><img height="38" src="https://raw.githubusercontent.com/andrelsf/andrelsf/main/.github/images/java.png"></code>
-
 <code><img height="38" src="https://raw.githubusercontent.com/andrelsf/andrelsf/main/.github/images/spring.png"></code>
 <code><img height="38" src="https://raw.githubusercontent.com/andrelsf/andrelsf/main/.github/images/quarkus.png"></code>
 <code><img height="38" src="https://raw.githubusercontent.com/andrelsf/andrelsf/main/.github/images/python.png"></code>
