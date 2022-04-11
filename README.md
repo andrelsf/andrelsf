@@ -26,9 +26,6 @@ Hi, I'm [Andre Ferreira](https://www.linkedin.com/in/andre-l-s-ferreira-86a77025
 <code><img height="38" src="https://raw.githubusercontent.com/andrelsf/andrelsf/main/.github/images/spring.png"></code>
 <code><img height="38" src="https://raw.githubusercontent.com/andrelsf/andrelsf/main/.github/images/quarkus.png"></code>
 <code><img height="38" src="https://raw.githubusercontent.com/andrelsf/andrelsf/main/.github/images/python.png"></code>
-<code><img height="38" src="https://raw.githubusercontent.com/andrelsf/andrelsf/main/.github/images/postgresql.png"></code>
-<code><img height="38" src="https://raw.githubusercontent.com/andrelsf/andrelsf/main/.github/images/mysql.png"></code>
-<code><img height="38" src="https://raw.githubusercontent.com/andrelsf/andrelsf/main/.github/images/vault.png"></code>
 </p>
 
 
