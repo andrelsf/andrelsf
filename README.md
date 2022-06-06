@@ -34,7 +34,7 @@ Hi, I'm [Andre Ferreira](https://www.linkedin.com/in/andre-l-s-ferreira-86a77025
 
 🚧 **What I am doing:**
 
-- Backend developer in Sensedia
+- Backend developer in Itau
 - Continuous learning
 
 
