@@ -1,10 +1,11 @@
 ### Hey there!  
-<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" size> -->
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" size> -->linkedin-icon.png
 
 <p>&nbsp;</p>
 
 <a href="https://www.linkedin.com/in/andre-l-s-ferreira-86a77025/">
-  <img align="left" alt="Andre's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <!-- <img align="left" alt="Andre's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> -->
+  <img align="left" alt="Andre's LinkedIN" height="22" src="https://raw.githubusercontent.com/andrelsf/andrelsf/main/.github/images/linkedin-icon.png">
 </a>
 
 <p>&nbsp;</p>
