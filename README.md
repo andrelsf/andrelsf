@@ -24,7 +24,7 @@ Hi, I'm [Andre Ferreira](https://www.linkedin.com/in/andre-l-s-ferreira-86a77025
 
 **Languages and Tools:**  
 <p float="left">
-<code><img height="38" src="https://raw.githubusercontent.com/andrelsf/andrelsf/main/.github/images/amazon-web-services.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/andrelsf/andrelsf/main/.github/images/aws-amazon-web-services.png"></code>
 <code><img height="38" src="https://raw.githubusercontent.com/andrelsf/andrelsf/main/.github/images/spring.png"></code>
 <code><img height="38" src="https://raw.githubusercontent.com/andrelsf/andrelsf/main/.github/images/java.png"></code>
 <code><img height="38" src="https://raw.githubusercontent.com/andrelsf/andrelsf/main/.github/images/kotlin.png"></code>
